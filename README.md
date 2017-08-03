@@ -1,6 +1,6 @@
 # osio-gatewayHelath-
 
-##Payload from Gateway##
+## Payload from Gateway ##
 
 ```json
 {
